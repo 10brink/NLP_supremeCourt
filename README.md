@@ -27,3 +27,4 @@ the last notebook I just used to do some visualization. I used that to save a cs
 actually in that notebook. 
 
 
+![cases since 1955](https://raw.githubusercontent.com/10brink/NLP_supremeCourt/master/viz/tableau%20screenshot.png)
